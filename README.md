@@ -21,3 +21,7 @@ This program is capable of converting a OSM XML file into a CSV file.
 
 
 **File content**: road\_id;node1\_id;node2\_id;
+
+
+## Requirements
+**OS**: Windows
